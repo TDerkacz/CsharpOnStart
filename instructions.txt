@@ -1,0 +1,15 @@
+git init
+---------------
+
+git push  <REMOTENAME> <BRANCHNAME> 
+
+git remote add origin https://github.com/TDerkacz/CsharpOnStart
+
+git push origin master
+
+As an example, you usually run git push origin master to push your local changes to your online repository.
+
+---------------
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
